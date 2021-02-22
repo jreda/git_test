@@ -1,0 +1,1 @@
+This is John Reda's first git project!
